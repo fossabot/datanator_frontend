@@ -1,10 +1,18 @@
 {
-  "name": "datanator_frontend",
+  "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "antd": "^3.20.1",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "plotly.js": "^1.48.3",
     "react": "^16.8.6",
+    "react-bootstrap-table-next": "^3.1.5",
+    "react-bootstrap-table2-filter": "^1.1.10",
     "react-dom": "^16.8.6",
+    "react-plotly.js": "^2.3.0",
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1"
   },
   "scripts": {
