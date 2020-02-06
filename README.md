@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/github/license/KarrLab/datanator_frontend.svg)](LICENSE)
 ![Analytics](https://ga-beacon.appspot.com/UA-86759801-1/datanator_frontend/README.md?pixel)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKarrLab%2Fdatanator_frontend.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKarrLab%2Fdatanator_frontend?ref=badge_shield)
 
 # Datanator-frontend
 Web-based graphical user interface of [Datanator](https://datanator.info), a toolkit for discovering the data needed for modeling the biochemistry of cells.
@@ -65,6 +66,9 @@ We recommend that developers install and run *Datanator-frontend* locally. Below
 
 ## License
 This package is released under the [MIT license](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKarrLab%2Fdatanator_frontend.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKarrLab%2Fdatanator_frontend?ref=badge_large)
 
 ## Development team
 This package was developed by the [Karr Lab](https://www.karrlab.org) at the Icahn School of Medicine at Mount Sinai in New York.
